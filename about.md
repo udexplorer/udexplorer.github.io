@@ -11,10 +11,14 @@ With unprecedented access to information, we may start to wonder what really mat
 In this platform, we aim to provide you with those successful case studies, and facilitate interaction in the co-learning process.  We believe that an urban practice should be equitable, sustainable, and innovative, which are also the selection criteria when we screen hundreds of projects into the database. 
 
 # Developers
+
 Xxxxxxxxxxxxxxx
+
 Xxxxxxxxxxxxxxx
 
 # Sponsors
+
 Xxxxxxxxxxxxxxx
+
 Xxxxxxxxxxxxxxx
 
