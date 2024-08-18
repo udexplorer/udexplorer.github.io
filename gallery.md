@@ -1,4 +1,0 @@
----
-title: GALLERY
-layout: gallery
----
