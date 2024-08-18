@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-# PROJECTS
 
-Welcome to my homepage!
+Welcome to Urban Design Explorer!
 
