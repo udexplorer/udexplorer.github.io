@@ -1,13 +1,13 @@
 {% capture currentYear %}{{ 'now' | date: '%Y' }}{% endcapture %}
 
-<footer class="relative pt-24 pb-6">
+<footer class="relative pt-27 pb-6">
   <div class="container mx-auto px-4">
     <div class="flex flex-wrap text-left lg:text-left">
       <div class="w-full lg:w-6/12 px-4">
-        <h5 class="text-2xl fonat-semibold">{{ site.data[site.lang].footer.title | default: "Contact the developer:" |
+        <h5 class="text-2xl fonat-semibold">{{ site.data[site.lang].footer.title | default: "Contact us:" |
           localize}}</h5>
         <span class="text-lg dark:text-slate-300 my-4">
-          {{ site.data[site.lang].footer.description | default: "Philadelphia, PA, US" }}
+          {{ site.data[site.lang].footer.description | default: "Philadelphia, PA" }}
         </span>
         {% include social.html %}
       </div>
