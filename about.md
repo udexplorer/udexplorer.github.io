@@ -13,10 +13,12 @@ In this platform, we aim to provide you with those successful case studies, and 
 **Developers**
 
 Xxxxxxxxxxxxxxx
+
 Xxxxxxxxxxxxxxx
 
 **Sponsors**
 
 Xxxxxxxxxxxxxxx
+
 Xxxxxxxxxxxxxxx
 
