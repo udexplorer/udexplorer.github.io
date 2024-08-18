@@ -4,8 +4,17 @@ layout: page
 permalink: /about/
 ---
 
-Hi there! I'm a designer & planner who has diverse skills in city planning, architecture, and product design, with a Master of City Planning degree and an Integrated Product Design certificate from the University of Pennsylvania. 
+This website offers a trained chatbot to help urban designers & planners search for successful case studies, and an online forum for users to share fresh ideas and leave comments. 
 
-With a global perspective and dedication to interdisciplinary study, I participated in a broad range of professional projects in both the US and China, including downtown redevelopment, historic preservation plan, new town design & planning, architectural design, and interior consultancy. 
+With unprecedented access to information, we may start to wonder what really matters to our work, people’s life, and the world. Even if we have a rough idea, it’s also hard and time-consuming to locate what we need in a mass amount of data. Not to mention the information cocoon, which deepens our biases and blocks us from learning something new. 
 
-I'm passionate about creating active spaces that can benefit users or local communities, and seeks for innovative tool kits to maximize the impact of design. Envisioning the future, I'll continue to explore the intersection of design technology, climate resiliency, and public engagement in Philadelphia.
+In this platform, we aim to provide you with those successful case studies, and facilitate interaction in the co-learning process.  We believe that an urban practice should be equitable, sustainable, and innovative, which are also the selection criteria when we screen hundreds of projects into the database. 
+
+Developer
+Xxxxxxxxxxxxxxx
+Xxxxxxxxxxxxxxx
+
+Sponsor
+Xxxxxxxxxxxxxxx
+Xxxxxxxxxxxxxxx
+
