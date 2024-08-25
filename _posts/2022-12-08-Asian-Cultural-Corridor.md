@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Asian Cultural Corridor"
-image: /assets/images/Asian Cultural Corridor.jpg
+image: /assets/images/Knoll-02_website-1800x1209.jpg
 tags: ["Urban Design", "Place-making"]
-author: Philadelphia, PA
+author: Hongyi Li
 ---
 
 This project focuses on the Chinatown in Philadelphia, which is lacking open space and experiencing economic stagnant. Even though it's called Chinatown, voices from local LEP communities are usually ignored. Therefore, it's important to involve local communities following their cultural tradition, as well as catalyze the neighborhood's development for the next generation.
