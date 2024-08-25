@@ -20,6 +20,15 @@ layout: base
       <span class="text-xs text-slate-700 dark:text-slate-100/80 align-middle">#{{tag}}</span>
       {% endfor %}
     </div>
+
+    <ul class="entry-meta group">
+			<?php if ( comments_open() && ( get_theme_mod( 'comment-count', 'on' ) =='on' ) ): ?>
+				<li class="entry-comments">
+					<a class="entry-comments" href="<?php comments_link(); ?>"><i class="far fa-comment"></i><span><?php comments_number( '0', '1', '%' ); ?></span></a>
+				</li>
+			<?php endif; ?>
+		</ul>
+    
   </div>
   {% endfor %}
 </div>
