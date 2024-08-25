@@ -1,9 +1,9 @@
 ---
 layout: post
 title:  "Smart Parking Philadelphia"
-image: /assets/images/Smart Parking Philadelphia.jpg
+image: /assets/images/Publication-Photo-1_website-1800x1165.jpg
 tags: ["Urban Technology", "Product Prototyping"]
-author: Philadelphia, PA
+author: Hongyi Li
 ---
 
 Smart Parking Philadelphia is a program that detects and visualizes the availability of street parking. Nowadays, it’s hard to find a parking space in downtown Philadelphia, especially during peak hours, which leads to more congestion, carbon emission and traffic accidents in Center City. By connecting the existing underground inductive loops to a new sensors system, the program aims to show real-time parking availability at most intersections via affordable implementation process. 
